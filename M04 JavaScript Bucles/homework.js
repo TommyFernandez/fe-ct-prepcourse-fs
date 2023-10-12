@@ -169,8 +169,8 @@ function doWhile(num) {
    // Tu código:
    var i = 0
    do {
-      (num += 5)
-      (i++)}
+      num += 5
+      i++}
    while (i < 8)
       return num
    } 
